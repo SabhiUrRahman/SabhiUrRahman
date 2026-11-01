@@ -1,6 +1,6 @@
 # Hi, I'm Syed Sabhi Ur Rahman
 
-**Webflow Developer at Devziv · BS Cybersecurity student at Superior University · Learning Web Application & AI Security**
+**Senior Webflow Developer at Devziv · BS Cybersecurity student at Superior University · Learning Web Application & AI Security**
 
 I've spent three years building websites. Now I'm learning how to secure them, with a focus on web applications and on apps and websites built with AI tools.
 
