@@ -19,12 +19,13 @@ I'm at the start of this path. Everything here is a learning record, not a claim
 ## Projects
 
 - [cybersecurity-foundations](https://github.com/SabhiUrRahman/cybersecurity-foundations): my weekly learning notes, written in my own words
+- [Cyber Roadmap](https://sabhiurrahman.github.io/cyber-roadmap/): my week-by-week roadmap tracker; works offline and installs on a phone ([code](https://github.com/SabhiUrRahman/cyber-roadmap))
 
 ## Development background
 
-Over three years I've built 40+ Webflow websites for startups, founders and agencies: Figma-to-Webflow builds, CMS collections, landing pages, SaaS sites, interactions and animations.
+Over three years I've built 40+ Webflow websites for startups, founders and agencies: Figma-to-Webflow builds, CMS collections, landing pages, SaaS sites, interactions and animations. I use AI-assisted development every day and test everything it produces before it ships.
 
-**Skills:** Webflow · Figma to Webflow · HTML5 · CSS · JavaScript · CMS · Responsive Web Design
+**Skills:** Webflow · Figma to Webflow · HTML5 · CSS · JavaScript · CMS · Responsive Web Design · AI-assisted Development
 
 ## Ground rules
 
